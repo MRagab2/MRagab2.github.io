@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/booking-system-client/static/css/main.c7903028.css",
+    "main.js": "/booking-system-client/static/js/main.9535b7bb.js",
+    "static/js/787.b2d4ec26.chunk.js": "/booking-system-client/static/js/787.b2d4ec26.chunk.js",
+    "static/media/onilne courser.jpg": "/booking-system-client/static/media/onilne courser.81fcb52aa45ff23ae439.jpg",
+    "static/media/teacher photo.png": "/booking-system-client/static/media/teacher photo.0c05afcf3b6d9e30cea2.png",
+    "static/media/face15.jpg": "/booking-system-client/static/media/face15.00f72a57c8fc2dd4219b.jpg",
+    "index.html": "/booking-system-client/index.html",
+    "static/media/logo-mini.svg": "/booking-system-client/static/media/logo-mini.aac0fda4867b1d9cf3172f02519f940c.svg",
+    "main.c7903028.css.map": "/booking-system-client/static/css/main.c7903028.css.map",
+    "main.9535b7bb.js.map": "/booking-system-client/static/js/main.9535b7bb.js.map",
+    "787.b2d4ec26.chunk.js.map": "/booking-system-client/static/js/787.b2d4ec26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7903028.css",
+    "static/js/main.9535b7bb.js"
+  ]
+}
